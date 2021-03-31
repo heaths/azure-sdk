@@ -42,6 +42,50 @@ entries:
                   external_url: https://azure.github.io/azure-sdk-for-net/storage.html#azurestoragefilesshares
                 - title: Azure.Storage.Queues
                   external_url: https://azure.github.io/azure-sdk-for-net/storage.html#azurestoragequeues
+  - title: Android Guidelines
+    folderitems:
+      - title: Design
+        url: /android_design.html
+      - title: Implementation
+        url: /android_implementation.html
+  - title: C Guidelines
+    folderitems:
+      - title: Design
+        url: /clang_design.html
+      - title: Implementation
+        url: /clang_implementation.html
+        subfolders:
+            - title: API Documentation
+              subfolderitems:
+                - title: az_iot
+                  external_url: https://azure.github.io/azure-sdk-for-c/iot.html#az_iot
+  - title: C++ Guidelines
+    folderitems:
+      - title: Design
+        url: /cpp_introduction.html
+      - title: Implementation
+        url: /cpp_implementation.html
+        subfolders:
+            - title: API Documentation
+              subfolderitems:
+                - title: azure-storage-blob
+                  external_url: https://azure.github.io/azure-sdk-for-cpp/storage.html#azure-storage-blob
+                - title: azure-storage-file-datalake
+                  external_url: https://azure.github.io/azure-sdk-for-cpp/storage.html#azure-storage-file-datalake
+                - title: azure-storage-file-share
+                  external_url: https://azure.github.io/azure-sdk-for-cpp/storage.html#azure-storage-file-shares
+  - title: Go Guidelines
+    folderitems:
+      - title: Design
+        url: /golang_introduction.html
+      - title: Implementation
+        url: /golang_implementation.html
+  - title: iOS Guidelines
+    folderitems:
+      - title: Design
+        url: /ios_design.html
+      - title: Implementation
+        url: /ios_implementation.html
   - title: Java Guidelines
     folderitems:
       - title: Design
@@ -94,6 +138,10 @@ entries:
               external_url: https://azure.github.io/azure-sdk-for-python/storage.html#azure-storage-file-share
             - title: azure-storage-queue
               external_url: https://azure.github.io/azure-sdk-for-python/storage.html#azure-storage-queue
+  - title: Rust Guidelines
+    folderitems:
+      - title: Design
+        url: /rustlang_introduction.html
   - title: TypeScript Guidelines
     folderitems:
       - title: Introduction
@@ -121,50 +169,6 @@ entries:
               external_url: https://azure.github.io/azure-sdk-for-js/storage.html#azure-storage-file-share
             - title: "@azure/storage-queue"
               external_url: https://azure.github.io/azure-sdk-for-js/storage.html#azure-storage-queue
-  - title: Android Guidelines
-    folderitems:
-      - title: Design
-        url: /android_design.html
-      - title: Implementation
-        url: /android_implementation.html
-  - title: iOS Guidelines
-    folderitems:
-      - title: Design
-        url: /ios_design.html
-      - title: Implementation
-        url: /ios_implementation.html
-  - title: C Guidelines
-    folderitems:
-      - title: Design
-        url: /clang_design.html
-      - title: Implementation
-        url: /clang_implementation.html
-        subfolders:
-            - title: API Documentation
-              subfolderitems:
-                - title: az_iot
-                  external_url: https://azure.github.io/azure-sdk-for-c/iot.html#az_iot
-  - title: C++ Guidelines
-    folderitems:
-      - title: Design
-        url: /cpp_introduction.html
-      - title: Implementation
-        url: /cpp_implementation.html
-        subfolders:
-            - title: API Documentation
-              subfolderitems:
-                - title: azure-storage-blob
-                  external_url: https://azure.github.io/azure-sdk-for-cpp/storage.html#azure-storage-blob
-                - title: azure-storage-file-datalake
-                  external_url: https://azure.github.io/azure-sdk-for-cpp/storage.html#azure-storage-file-datalake
-                - title: azure-storage-file-share
-                  external_url: https://azure.github.io/azure-sdk-for-cpp/storage.html#azure-storage-file-shares
-  - title: Go Guidelines
-    folderitems:
-      - title: Design
-        url: /golang_introduction.html
-      - title: Implementation
-        url: /golang_implementation.html
   - title: Github Repos
     folderitems:
       - title: Guidelines Contributions
