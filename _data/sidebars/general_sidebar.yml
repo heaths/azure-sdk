@@ -141,7 +141,7 @@ entries:
   - title: Rust Guidelines
     folderitems:
       - title: Design
-        url: /rustlang_introduction.html
+        url: /rust_introduction.html
   - title: TypeScript Guidelines
     folderitems:
       - title: Introduction

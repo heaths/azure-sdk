@@ -31,7 +31,7 @@ topnav_dropdowns:
             - title: Python
               url: /python_design.html
             - title: Rust (Draft)
-              url: /rustlang_introduction.html
+              url: /rust_introduction.html
             - title: TypeScript
               url: /typescript_introduction.html
       - title: API References
